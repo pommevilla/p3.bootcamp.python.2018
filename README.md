@@ -10,7 +10,7 @@ Materials for the *Introduction to Python section* of the Programming Bootcamp h
 
 This workshop is broken up into 6 parts:
 
-* [Installation](lessons/P3Bootcamp2018-00.ipynb) 
+* [Introduction](lessons/P3Bootcamp2018-00.ipynb) 
 * [Basic Python](lessons/P3Bootcamp2018-01.ipynb)
 * [Control Flow](lessons/P3Bootcamp2018-02.ipynb)
 * [File I/O](lessons/P3Bootcamp2018-03.ipynb)
