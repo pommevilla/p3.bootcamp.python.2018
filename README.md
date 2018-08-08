@@ -25,7 +25,7 @@ Send questions, comments, feedback, and hate mail to pev at iastate dot edu.
 [p3-landing]: https://www.predictivephenomicsinplants.iastate.edu/
 [intro-to-r]: https://github.com/sdsmith1390/Tutorial_Basic_R
 [schuyler-github]: https://github.com/sdsmith1390
-[intro-to-python]: https://github.com/pommevilla/p3.bootcamp.python.2018
+[intro-to-python]: https://nbviewer.jupyter.org/github/pommevilla/p3.bootcamp.python.2018/blob/master/lessons/P3Bootcamp2018-00.ipynb
 [paul-github]: https://github.com/pommevilla
 [intro-to-unix]: https://github.com/skDooley/shell_tutorial
 [shane-github]: https://github.com/skDooley
