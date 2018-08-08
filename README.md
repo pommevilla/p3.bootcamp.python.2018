@@ -15,7 +15,7 @@ This workshop is broken up into 6 parts:
 * [Control Flow](lessons/P3Bootcamp2018-02.ipynb)
 * [File I/O](lessons/P3Bootcamp2018-03.ipynb)
 * [Functions](lessons/P3Bootcamp2018-04.ipynb)
-* [Next Steps](lessons/P3Bootcamp2018-06.ipynb)
+* [Next Steps](lessons/P3Bootcamp2018-05.ipynb)
 
 ## Contact
 
